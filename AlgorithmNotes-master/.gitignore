@@ -1,0 +1,9 @@
+#mac-os
+.DS_Store
+
+#tex
+.texpadtmp/
+
+#py
+__pycache__
+*.pyc
